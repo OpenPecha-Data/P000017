@@ -1,0 +1,39 @@
+ebook_metadata:
+  title: ༄༅། །སྡོམ་པ་གསུམ་གྱི་རྒྱན་ཞེས་བྱ་བའི་རྒྱ་ཆེར་འགྲེལ་ལས་ལེའུ་གཉིས་པ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། ཀུན་མཁྱེན་པདྨ་དཀར་པོ།
+  sku: KS-PK-15
+  layers:
+  - book_title
+  - author
+  - tsawa
+  - quotation
+  - sabche
+web_metadata:
+  title:
+    en: An Extensive Commentary on the Ornament for the Three Sets of Vows:Chapter
+      2
+    bo: སྡོམ་པ་གསུམ་གྱི་རྒྱན་ཞེས་བྱ་བའི་རྒྱ་ཆེར་འགྲེལ་ལས་ལེའུ་གཉིས་པ་བཞུགས་སོ། །
+  collection:
+    en: Pema Karpo Series–  Book 15
+    bo: ཀུན་མཁྱེན་གཞུང་འགྲེལ།–  དེབ། ༡༥
+  author:
+    en: Kunkhyen Pema Karpo
+    bo: ཀུན་མཁྱེན་པདྨ་དཀར་པོ།
+  pusblisher:
+    en: Gautam Buddha Vihara
+    bo: དོན་བརྒྱུད་དཔལ་ལྡན་འབྲུག་པ།
+  sku: KS-PK-15
+  category:
+    en: Three Vows
+    bo: སྡོམ་གསུམ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: KS-PK-15.epub
+  description:
+    en: ''
+    bo: ''
